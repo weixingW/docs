@@ -79,4 +79,7 @@
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
+  "feedback": {
+	"thumbsRating": true
+  }
 }
